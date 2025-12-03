@@ -1,17 +1,17 @@
 # Core framework
-Django==5.0.3
+Django
 
 # Django REST Framework
-djangorestframework==3.15.1
+djangorestframework
 
 # Gunicorn for production WSGI server
-gunicorn==21.2.0
+gunicorn
 
 # PostgreSQL adapter
-psycopg2-binary==2.9.9
+# psycopg2-binary==2.9.9
 
 # Optional: environment variable management
-python-decouple==3.8
+# python-decouple==3.8
 
 # Optional: CORS headers if you need cross-origin API access
-django-cors-headers==4.3.1
+django-cors-headers
